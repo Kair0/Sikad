@@ -5,7 +5,7 @@ Sikad is a social media donation drive platform that allows its users to donate 
 ## How to Install
 1.) Install Flutter
 2.) Clone the Repository
-3.) Build the app by running flutter -build command
+3.) Build the app by running 'flutter -build apk' command
 
 ### Note
 This file is still in its alpha pahse and may contain stuff that are not functionable.
