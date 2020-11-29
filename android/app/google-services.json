@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "50951065040",
+    "firebase_url": "https://sikad-137b9.firebaseio.com",
+    "project_id": "sikad-137b9",
+    "storage_bucket": "sikad-137b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50951065040:android:005dd0240306a21a3dfdd5",
+        "android_client_info": {
+          "package_name": "com.example.Sikad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50951065040-ndeil1eonm6jodp924v3s983pdhtp3es.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.Sikad",
+            "certificate_hash": "97c57cafe0bfdb9ff99bdb59342fb5b00f2d1cf3"
+          }
+        },
+        {
+          "client_id": "50951065040-2mrrbm5m8md9q69u1p5plig7b0ufj18q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgekKSqBeRlVnhZPXyRb4m45M4r1mK32g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50951065040-2mrrbm5m8md9q69u1p5plig7b0ufj18q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
